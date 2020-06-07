@@ -1,0 +1,6 @@
+# Udemy-Courses-Analysis-Prediction
+This is an analysis on the Udemy Courses data set from Kaggle.
+This dataset contains 3.682 records of courses from 4 subjects: 
+(Business Finance, Graphic Design, Musical Instruments and Web Design) taken from Udemy.
+Udemy is a massive online open course (MOOC) platform that offers both free and paid courses. 
+Anybody can create a course, a business model by which allowed Udemy to have hundreds of thousands of courses.
